@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="org.osgi.core-4.3.1" type="org.osgi.core">
+    <properties version="4.3.1" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/org.osgi.core-4.3.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/lib/org.osgi.core-4.3.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
